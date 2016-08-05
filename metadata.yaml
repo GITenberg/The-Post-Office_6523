@@ -1,0 +1,33 @@
+_repo: The-Post-Office_6523
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mukherjee, Devabrata
+    gutenberg_agent_id: '2076'
+    url: http://www.gutenberg.org/2009/agents/2076
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: ''
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indic drama -- Translations into English'
+- !lcc 'PK'
+- !lcsh 'Tagore, Rabindranath, 1861-1941 -- Translations into English'
+- !lcsh 'Bengali drama -- Translations into English'
+- GITenberg
+title: The Post Office
+url: http://www.gutenberg.org/ebooks/6523
