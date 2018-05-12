@@ -1,10 +1,13 @@
 _repo: The-Post-Office_6523
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Mukherjee, Devabrata
     gutenberg_agent_id: '2076'
     url: http://www.gutenberg.org/2009/agents/2076
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tagore, Rabindranath
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/942
     wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6523#The-Post-Office
 gutenberg_bookshelf: One Act Plays
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
